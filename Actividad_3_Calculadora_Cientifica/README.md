@@ -1,7 +1,7 @@
 # Actividad 3: Calculadora Científica Web
 
 **Asignatura:** Desarrollo de Aplicaciones Web  
-**Estudiante:** Roberto Carlos Agila Agila  
+**Estudiante:** ROBERTO CARLOS AGILA AGILA-CINDY YIMABEL MONSERRATE IBARRA-GENNY ISABEL GARCIA RAMIREZ  
 **Tecnologías:** HTML5, CSS3 y JavaScript (sin dependencias externas)
 
 ## Objetivo
@@ -26,15 +26,6 @@ Desarrollar una calculadora científica funcional mediante programación del lad
 - `estilos.css`: colores, diseño de los botones y adaptación a tamaños de pantalla.
 - `script.js`: motor de expresiones y eventos que hacen funcionar la calculadora.
 
-## Cómo usar
-
-1. Descarga los archivos y mantenlos juntos en la misma carpeta.
-2. Abre `index.html` en Chrome, Firefox o Edge.
-3. Escribe una expresión y presiona `=` o `Enter`.
-4. Alterna DEG/RAD cuando utilices funciones trigonométricas.
-5. Consulta el historial para recuperar resultados anteriores.
-
-## Pruebas sugeridas
 
 | Expresión | Resultado esperado |
 |---|---|
@@ -51,18 +42,3 @@ Desarrollar una calculadora científica funcional mediante programación del lad
 | `perm(5,2)` | `20` |
 | `1/0` | Mensaje de error |
 
-**Nota:** El botón `%` divide el valor anterior entre 100; por ejemplo, `25%` es `0.25`. El motor sigue las prioridades matemáticas de operaciones y no emplea `eval()`.
-
-## Publicación en GitHub Pages
-
-Cuando el proyecto esté en `actividad-3/calculadora-cientifica/`, ve a **Settings → Pages → Deploy from a branch**, selecciona la rama `main` y carpeta `/(root)`; el proyecto se abrirá en:
-
-`https://RobertoAgila.github.io/trabajos-desarrollo-aplicaciones-web/actividad-3/calculadora-cientifica/`
-
-La dirección funcionará después de que GitHub Pages se haya habilitado y haya terminado la publicación.
-
-## Evidencia para la entrega
-
-- Video mostrando edición, explicación y pruebas del código.
-- Enlace público al repositorio que contiene el proyecto.
-- De forma opcional, enlace a la calculadora publicada en GitHub Pages.
